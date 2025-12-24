@@ -1,0 +1,47 @@
+
+8) SDLC :-  SDLC stands for Software Development Life Cycle. It is the process of developing software Application ensuring that to meet the quality                                    standarts and Business requirements.There are some phases involve in the SDLC process. They are :-
+                       1.  Gathering of requirements 
+                       2.  Planning
+                       3.  Design
+                       4.  Development
+                       5.  Testing 
+                       6.  Delivery and Maintaince
+
+9)   WaterFall Model :-    Waterfall model is a Linear and sequential model. In this model each and every activity is documented. Each phase will be started                                                after the completation of previous phase.  
+                 Advantages :- 
+                           1.   This Model is suitable for small project and requirement are clear.
+                           2.  since requirements changes are not allowed , so chances of finding bugs are less
+                 DisAdvantages :-
+                           1.  Changes in the requirements are not allowed
+                           2.  if their is any defect in the requirements it will be continued to next phases also.
+
+10)   Sprial Model :-     Sprial Model is a iterative model but it combines the features of both iterative model and waterfall model.  This model represents the                                       project as a series of Loops where each loop passes through all the phases of SDLC process. In this Model the software is released as a 
+                                      versions so it also called as version control model.
+                      Advantages :-
+                                 1.   This model focus on risk management
+                                 2.   This model is suitable for Larger project that has high risk
+                                 3.   Requirements changes are allowed at later stages
+                     DisAdvantages :-
+                                 1.   This model is Expensive when compared to other Models
+                                 2.   It can be complex to manage due to multiple iterations
+
+11)   V Model :-     V Model is also known as vv Model. It represents verification and validation. verification phase consists of Requirement Analysis , System                               Design , High Level design , Low Level Design , Coding. validation consists of Unit Testing , Intergating Testing ,System Testing ,UAT.
+                    Advantages :- 
+                                   1.   In every stage there is a corresponding Testing so defects are found early
+                                   2.  It has clear and structured process.
+                                   3.  Easy to manage and gives High quality output
+                   DisAdvantages :-
+                                   1.   Difficult to make changes once project starts
+                                   2.   Not suitable for Unclear requirements
+
+
+Note :-   BRS --- Business Requirement Specification , CRS --- Customer Requirement Specification , URS --- User Requirement Specification
+                 BRS or CRS or URS is a Document consists of all user requirements. This document is made by Business people
+
+Note :-   SRS --- System Requirement Specification. This is a document designed by higher level managers and product managers.
+                             SRS document is a URS document that prepared into a techiniqual document for to understand Developers and Testers
+
+            
+
+  
+
