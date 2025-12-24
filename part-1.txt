@@ -32,7 +32,7 @@ Types of softwares :-  There are 3 types of softwares ---  1. System software   
 7) Why a software has a bugs :-   A software has a bugs because of Miscommunication , software complexity , error made by the developers , Continuous 
                                                         changing in the user requirements , Errors made by testers and Unclear of user requirements.
 
-
+This is First change done in github only
                                   
                                         
                                 
