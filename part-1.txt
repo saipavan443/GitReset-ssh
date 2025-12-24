@@ -1,0 +1,38 @@
+
+1) Software :-   A software is a collection of multiple computer programms and some data that are used to perform a task is called a software or software                                  Application.
+
+Types of softwares :-  There are 3 types of softwares ---  1. System software    2. Programming software   3. Application software.
+
+     System software :-   System software helps us to run the computer's Hardware and system resources. This type of softwares are act as a bridge between                                             the hardware and the user applications.
+                                          EX :-  Device drivers , Operting systems , servers and Utlities etc.
+
+     Programming software :-  Programming software are the software Mainly used by the Developers or programmers helps to create another software.
+                                                      EX :-   Compliers, Debuggers , interpeter etc       
+
+     Application software :-   Application software is a software used by End users to perform a certain task.
+                                                    EX :-   WebApplication , Desktop Application and Mobile Application etc.      
+
+2) Software Quality :-   Software Quality means How well a software product meets user requirements and expectations. The software product need to be 
+                                        Bug-free , Delivered on time , with in the budget and Maintainable.
+
+3) Software Testing :-   Software Testing is the combination of verification and validation
+                                       Verification is the process to check wheather the developing product is right or not
+                                       Validation is the process of to check wheather the developed product is right or not
+
+4) Project vs product :-   Project is an software Application which is developed for a specific customer based upon his requirements is called a project
+                                          product is an software Application which is developed for multiple customer based upon market requirements is called a product
+
+5) Why do we need testing :-   We need testing because of to deliver the Quality product to the customer.
+
+6) Error / bug / failure :- 
+     Error or Mistake :-  An incorrect action that made by a human that cause a problem in the Application is called an Error.
+     Bug or defect or issue :- if there is a deviation between the actual result and expected result then it is called a bug.
+     Failure :-  if the customer or EndUser identifies the defect in the Application then it is consider as a Failure
+
+7) Why a software has a bugs :-   A software has a bugs because of Miscommunication , software complexity , error made by the developers , Continuous 
+                                                        changing in the user requirements , Errors made by testers and Unclear of user requirements.
+
+
+                                  
+                                        
+                                
