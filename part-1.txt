@@ -33,6 +33,7 @@ Types of softwares :-  There are 3 types of softwares ---  1. System software   
                                                         changing in the user requirements , Errors made by testers and Unclear of user requirements.
 
 This is First change done in github only
+this is secnond change make thanks god and thanks to arun sir
                                   
                                         
                                 
