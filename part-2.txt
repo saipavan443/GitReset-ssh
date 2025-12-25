@@ -41,7 +41,7 @@ Note :-   BRS --- Business Requirement Specification , CRS --- Customer Requirem
 Note :-   SRS --- System Requirement Specification. This is a document designed by higher level managers and product managers.
                              SRS document is a URS document that prepared into a techiniqual document for to understand Developers and Testers
 
-            
+            this is pratice for to recover old commit
 
   
 
