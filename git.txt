@@ -1,0 +1,20 @@
+
+Git is Local repository and GitHub is remote repository
+Git is a version control system used to track changes in computer files
+GitHub is an hosting service for git repository
+
+Working directory/Untracked files  -----   Staging Area/Add to index -----   Local repository/Git repository -----   Remove repository/GitHub repository
+
+
+Right click on project --- click on team --- click on share project --- click the check box of use or create repository in parent folder project --- click on create repository --- click on finish
+Right click on project --- click on team --- click on add to index
+Right click on project --- click on team --- click on commit --- entre message --- click on commit
+To open staging area window --- Goto window --- show view --- other --- search git then we can Staging area and git repository
+Open GitHub and Login --- create new repository by providing project name and click on create repository
+click on code and copy the code
+Right click on project --- click on team --- click on remote --- click on push --- In URL Filed paste the link --- Entre username and password of GitHub --- click on next and a new window open in source reference select  'branch' to which we need to add our files --- click on add spec --- click on push --- A window opens click on close
+
+To create Token --- click on profile in github --- click on settings --- click on developer settings --- click on personal access token --- click on Token classic --- click on generate classic token --- entre note --- select repo --- click on generate token
+Note :- In eclipse instead of password need to provide classic token
+Github ----- username = saipavan443 , password = Pavan.555
+ token -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    
